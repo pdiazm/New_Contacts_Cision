@@ -1,2 +1,2 @@
 # New Contacts Processor - Cision
-[R Script](https://github.com/pdiazm/New_Contacts_Cision/blob/master/Survey%20Responses%20Processor.r) for processing survey responses into a Cision friendly format for bulk uploads.
+[R Script](https://github.com/pdiazm/New_Contacts_Cision/blob/master/Survey%20Responses%20Processor.r) for processing survey responses from journalist into a Cision-friendly format for bulk uploads. This script assigns contacts to a media list and provides their language preference. Media Managers can simply upload the output file to Cision to automatically update their media lists with the latest journalist contacts.
